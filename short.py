@@ -52,7 +52,7 @@ st.sidebar.header("📉 SHORT CONFIG")
 rsi_limit = st.sidebar.number_input("1H RSI 이상 (과매수)", 1, 100, 90)
 
 # --- 메인 화면 ---
-st.title("🏹 BITGET VIP SHORT SCANNER")
+st.title("🏹 바이낸스 숏 포지션")
 
 # 한 줄 지표 요약
 st.markdown(f"""
