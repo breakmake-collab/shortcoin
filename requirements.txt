@@ -1,4 +1,4 @@
 streamlit
 ccxt
-pandas==2.1.4
-pandas_ta
+pandas
+https://github.com/twopirllc/pandas-ta/archive/master.zip
